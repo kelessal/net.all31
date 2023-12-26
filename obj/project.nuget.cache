@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "TkppQJTJ3hEaZcJsDzM4jWFzQzHjb0W9xxM4FBr8sSAU3mZzLxEocaqhH9Qw/nFM7q9//ZCj6B/IyyfO5lLvIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\keles\\OneDrive\\Belgeler\\GitHub\\net.all31\\Net.All31.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keles\\.nuget\\packages\\combinatorics\\2.0.0\\combinatorics.2.0.0.nupkg.sha512",
+    "C:\\Users\\keles\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\keles\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.3\\microsoft.identitymodel.abstractions.7.0.3.nupkg.sha512",
+    "C:\\Users\\keles\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.3\\microsoft.identitymodel.jsonwebtokens.7.0.3.nupkg.sha512",
+    "C:\\Users\\keles\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.3\\microsoft.identitymodel.logging.7.0.3.nupkg.sha512",
+    "C:\\Users\\keles\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.3\\microsoft.identitymodel.tokens.7.0.3.nupkg.sha512",
+    "C:\\Users\\keles\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\keles\\.nuget\\packages\\serialize.linq\\3.0.148\\serialize.linq.3.0.148.nupkg.sha512",
+    "C:\\Users\\keles\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.3\\system.identitymodel.tokens.jwt.7.0.3.nupkg.sha512",
+    "C:\\Users\\keles\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\keles\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\keles\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
