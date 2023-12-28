@@ -1,0 +1,9 @@
+C:\Users\keles\OneDrive\Belgeler\GitHub\net.all31\Net.All31\bin\Debug\netcoreapp3.1\Net.All31.deps.json
+C:\Users\keles\OneDrive\Belgeler\GitHub\net.all31\Net.All31\bin\Debug\netcoreapp3.1\Net.All31.dll
+C:\Users\keles\OneDrive\Belgeler\GitHub\net.all31\Net.All31\bin\Debug\netcoreapp3.1\Net.All31.pdb
+C:\Users\keles\OneDrive\Belgeler\GitHub\net.all31\Net.All31\obj\Debug\netcoreapp3.1\Net.All31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keles\OneDrive\Belgeler\GitHub\net.all31\Net.All31\obj\Debug\netcoreapp3.1\Net.All31.AssemblyInfoInputs.cache
+C:\Users\keles\OneDrive\Belgeler\GitHub\net.all31\Net.All31\obj\Debug\netcoreapp3.1\Net.All31.AssemblyInfo.cs
+C:\Users\keles\OneDrive\Belgeler\GitHub\net.all31\Net.All31\obj\Debug\netcoreapp3.1\Net.All31.csproj.CoreCompileInputs.cache
+C:\Users\keles\OneDrive\Belgeler\GitHub\net.all31\Net.All31\obj\Debug\netcoreapp3.1\Net.All31.dll
+C:\Users\keles\OneDrive\Belgeler\GitHub\net.all31\Net.All31\obj\Debug\netcoreapp3.1\Net.All31.pdb

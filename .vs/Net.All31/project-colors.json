@@ -5,7 +5,22 @@
       "ProjectGuid": "7084997e-72ff-4d6c-9eea-4f1cb3f9c7d4",
       "DisplayName": "Net.All31",
       "ColorIndex": 0
+    },
+    "d087bcdd-160f-4b3a-b581-1e955635b067": {
+      "ProjectGuid": "d087bcdd-160f-4b3a-b581-1e955635b067",
+      "DisplayName": "Net.All31Test",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d52138aa-d12e-4b47-910a-1712ef4e786e": {
+      "ProjectGuid": "d52138aa-d12e-4b47-910a-1712ef4e786e",
+      "DisplayName": "Net.All31",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
